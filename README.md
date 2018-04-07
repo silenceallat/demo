@@ -1,6 +1,7 @@
 # demo
 learning for test
 2018年4月7日 建立
+:+1:
 
 *怎么建立一个静态网页
 首先在demo中新建一个html文件，然后编写html。
